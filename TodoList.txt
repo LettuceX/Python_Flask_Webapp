@@ -1,0 +1,20 @@
+change the account button to user profile image, better have navigation bars for
+setting etc. when hovering 
+
+able to adjust profile image position and size onsite
+
+profile picture auto resize while not click into it, but can still get the 
+original picture when wanted
+
+clear old profile picture in the database after user successfully changed theirs
+
+make the initial post unchangeable but deletable, and people can make comment under
+each post. Also the author's comment will be highlighted
+
+being able to attach links, images and videos? to the content of the post. easy by
+copy post? (is there a way to track the source of the link of videos, so the video
+is embeded in the content?)
+
+page button always appear on the top(or bottom) of the web, even if we scroll up and down
+
+create subscribe post and user functions
